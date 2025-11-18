@@ -1,2 +1,4 @@
 chatbot.py
 chatbot_con_contexto.py
+.gemini/
+gha-creds-*.json
